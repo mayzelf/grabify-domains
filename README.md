@@ -18,14 +18,14 @@ Grabify is a service used to create trackable links that can log IP addresses an
 To use as blacklist:
 
 1. **Download the List:**
-   - Clone the repository or download the `grabify_domains.txt` file directly.
+   - Clone the repository or download the `domain-list` file directly.
 
    ```bash
-   git clone https://github.com/yourusername/grabify-domains-blacklist.git
+   git clone https://github.com/mayzelf/grabify-domains.git
    ```
 
 2. **Import the List:**
-   - Import the `grabify_domains.txt` file into your firewall, ad blocker, or any other tool you use to manage blacklists.
+   - Import the `domain-list` file into your firewall, ad blocker, or any other tool you use to manage blacklists.
 
 3. **Regular Updates:**
    - Ensure you regularly update the list to stay protected against new Grabify domains.
@@ -40,11 +40,11 @@ Contributions are welcome! If you know of any Grabify domains that are not liste
 2. **Clone the Forked Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/grabify-domains-blacklist.git
+   git clone https://github.com/mayzelf/grabify-domains.git
    ```
 
 3. **Add the New Domain:**
-   - Open the `grabify_domains.txt` file and add the new domain(s) at the end of the list.
+   - Open the `domain-list` file and add the new domain(s) at the end of the list.
 
 4. **Commit Your Changes:**
 

@@ -38,9 +38,9 @@ Contributions are welcome! If you know of any Grabify domains that are not liste
    - Click the "Fork" button on the top right corner of this page.
 
 2. **Clone the Forked Repository:**
-
+   - Make sure to replace 'yourusername' with your username.
    ```bash
-   git clone https://github.com/mayzelf/grabify-domains.git
+   git clone https://github.com/yourusername/grabify-domains.git
    ```
 
 3. **Add the New Domain:**

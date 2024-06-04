@@ -30,6 +30,34 @@ To use as blacklist:
 3. **Regular Updates:**
    - Ensure you regularly update the list to stay protected against new Grabify domains.
 
+### Skript
+
+#### Installation
+
+1. Ensure you have Python 3.x installed on your system. You can download it from [python.org](https://www.python.org/downloads/).
+2. Install the BeautifulSoup library by running the following command:
+
+```bash
+pip install beautifulsoup4
+```
+
+#### Usage
+
+1. **Prepare the input file:**
+   - Ensure you have an input file named `dropdown.txt` in the same directory as the script. This file should contain the HTML content to be processed.
+
+2. **Run the script:**
+   - Execute the script using Python:
+
+   ```bash
+   python parser.py
+   ```
+
+3. **Output:**
+   - The script will create an output file named `domains.txt` in the same directory. This file will contain the extracted text from the 'a' tags and their nested 'small' tags, each on a new line.
+
+An example of how the input should look can be found inside `dropdown.txt`.
+
 ## Contributing
 
 Contributions are welcome! If you know of any Grabify domains that are not listed here, please contribute by following these steps:

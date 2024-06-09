@@ -26,7 +26,9 @@ print(result)
 with open('domains.txt', 'w') as file:
     for item in result:
         file.write(item + '\n')
+    print("Saved to domains.txt")
 
 with open('domains-only.txt', 'w') as file:
     for item in cleared:
         file.write(item + '\n')
+    print("Saved to domains-only.txt")

@@ -95,3 +95,4 @@ If you have any questions, suggestions, or issues, please feel free to contact m
 
 - GitHub: [mayzelf](https://github.com/mayzelf)
 - Discord: mayzelf
+- Website: [mayzelf.xyz]https://mayzelf.xyz/contact

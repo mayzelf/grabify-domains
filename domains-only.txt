@@ -4,6 +4,7 @@ mymap.quest
 mapss.icu
 map-s.online
 crypto-o.click
+cryp-o.online
 customer.autos
 account.beauty
 bank.charity
@@ -23,15 +24,6 @@ screensnaps.top
 customersupport.click
 mypicparade.pics
 imagevault.cloud
-photovault.pics
-foot.wiki
-gamergirl.pro
-picshost.pics
-pichost.pics
-imghost.pics
 screenshare.pics
 myprivate.pics
-shrekis.life
-screenshot.best
-gamingfun.me
 stopify.co
